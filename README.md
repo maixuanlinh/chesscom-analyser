@@ -18,7 +18,7 @@ This project fetches and analyzes chess games from Chess.com using their public 
 
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/linhmaissh/chesscom-analysis.git
+    git clone https://github.com/maixuanlinh/chesscom-analyser.git
     cd chesscom-analyzer
     ```
 
